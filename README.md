@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Fimrwares and Hardware Designing project.
-- 🌱 I’m currently learning bit by bit Android MVVM Design Pattern using Java.
+- 🌱 I’m currently learning bit by bit Flutter MVVM Design Pattern using Dart.
 - 👯 I’m looking for better content to learn more regarding FPGA.
 - 🤔 I’m looking for help with (will update)
 - 💬 Ask me about NRF5X SoC, BLE, PCB Designing, Firmware.
