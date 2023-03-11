@@ -12,7 +12,7 @@ Always working and learning about the latest processor technologies, MPUs, hardw
 Feel free to reach out to me with topics related to nRF5X System-on-Chip (SoC) and Bluetooth Low Energy (BLE). :clap:
 *📫 How to reach me: annim.banerjee@outlook.com / tweet or dm me @annimbanerji.*
 
-![http://annimbanerjee.in](https://img.shields.io/badge/webiste-annimbanerjee.in-blue) ![Website](https://img.shields.io/website?url=http%3A%2F%2Fannimbanerjee.in)
+![Website](https://img.shields.io/website?url=http%3A%2F%2Fannimbanerjee.in) :point_right: [annimbanerjee.in](http://annimbanerjee.in) 
 
 
 
