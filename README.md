@@ -18,5 +18,8 @@ Feel free to reach out to me with topics related to nRF5X System-on-Chip (SoC) a
 
 
 Annim/ :yellow_heart: <br>
-From :india: <br><br>
-![https://in.linkedin.com/in/annimbanerjee](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+From :india: <br>
+
+<a href="https://in.linkedin.com/in/annimbanerjee" target="_blank">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Profile" width="30" height="30">
+</a>
