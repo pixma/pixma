@@ -1,6 +1,6 @@
 ![LinkedIn_BackgroundImg_AnnimOnly](https://user-images.githubusercontent.com/2097509/224508899-db6ea022-f3d8-4780-8318-df320c369c23.png)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pixma.pixma&left_color=gray&right_color=blue)  ![GitHub followers](https://img.shields.io/github/followers/pixma?style=social)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9ZzBvn6THoVP7NzTLMU1YQ?style=social)
+![GitHub followers](https://img.shields.io/github/followers/pixma?style=social)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9ZzBvn6THoVP7NzTLMU1YQ?style=social)
 ## Annim says Hello! 👋
 
 Annim Banerjee is a skilled Computer Science Engineer with over 8 years of experience in Embedded Electronics Hardware Designing and developing Embedded IoT Products. With an in-depth understanding of all the verticals of any Embedded Electronics IoT Product, Annim has gained extensive experience in Cloud Backend, Web App, Mobile App, and IoT Broker Software. Annim's expertise in these areas enables him to provide end-to-end solutions to his clients and deliver high-quality IoT products that are secure, scalable, and user-friendly. Annim's dedication to his work, coupled with his passion for technology, makes him a valuable asset to any organization.
